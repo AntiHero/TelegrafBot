@@ -5,3 +5,6 @@ dist
 
 #logs
 yarn-error.log
+
+#env
+.env
