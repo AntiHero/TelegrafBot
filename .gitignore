@@ -1,0 +1,7 @@
+node_modules
+
+#build-artifacts
+dist
+
+#logs
+yarn-error.log
