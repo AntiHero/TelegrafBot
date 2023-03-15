@@ -5,6 +5,9 @@
   "repository": "git@github.com:AntiHero/TelegrafBot.git",
   "author": "Aleksandr Schemelev <prophreaker@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start:dev": "nest start"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.55.0",
     "@typescript-eslint/parser": "^5.55.0",
