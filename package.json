@@ -10,6 +10,7 @@
     "postinstall": "husky install"
   },
   "devDependencies": {
+    "@types/node": "^18.15.3",
     "@typescript-eslint/eslint-plugin": "^5.55.0",
     "@typescript-eslint/parser": "^5.55.0",
     "eslint": "^8.36.0",
@@ -26,6 +27,7 @@
   "dependencies": {
     "@nestjs/common": "^9.3.10",
     "@nestjs/core": "^9.3.10",
+    "@nestjs/platform-fastify": "^9.3.10",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.0"
   },
